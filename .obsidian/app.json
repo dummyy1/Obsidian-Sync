@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Attachments",
+  "spellcheckLanguages": [
+    "es-AR",
+    "en-US"
+  ],
+  "vimMode": true,
+  "showLineNumber": true,
+  "showInlineTitle": false
+}

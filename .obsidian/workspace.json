@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "dd3fbcb863dbfd0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cb11157f715ec2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa24c6cfe8f1a0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Note Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29b3f1cb3405280f",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c1841a5ee106c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75fa259761ac58db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93f2f9e8280f4a05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c673a70101a4a733",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ed17c7aa377f5e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "4932b7b4252c1185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e23a0fd549ea1e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Note Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89649eb24413b63e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Note Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc1075af808f7c15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ea64645c3030d46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Note Template.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aa24c6cfe8f1a0ae",
+  "lastOpenFiles": [
+    "Templates/Book Template.md",
+    "Templates/Note Template.md",
+    "Zettelkasten/Idea Template.md",
+    "Zettelkasten/Friday 04, November 2022.md",
+    "Templates/Code  Block.md",
+    "Zettelkasten/Componentes en Angular.md",
+    "Zettelkasten/Módulos en Angular.md",
+    "Templates/MOC.md",
+    "University Classes/Elementos de Álgebra y Geometría/Resolución de problema de autovectores particular.md",
+    "University Classes/Elementos de Álgebra y Geometría/Cambio de base - Diagonalización.md"
+  ]
+}
