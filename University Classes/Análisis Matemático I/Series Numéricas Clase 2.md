@@ -59,3 +59,19 @@ $$\sum \frac{1}{n^P} \begin{cases}
 \end{cases}$$
 [CONCHAAA]
 ## **Hipótesis:**
+
+---
+
+## **Series alternadas:**
+Este es un criterio útil cuando $\sum |a_{n}|=+\infty$.
+- la serie alternada puede escribirse como: $$\sum (-1)^n \cdot b_{n}$$
+*nótese la alternancia de signos.*
+
+---
+Criterio (series alternadas, que no son absolutas convergentes)
+- Si $b_{n}$ converge, entonces $\sum (-1)^n \cdot b_{n}$ es convergente (condicionalmente si $\sum b_{n}=+\infty$).
+	Además, $$|\sum_{n=1}^{N} (-1)^n \cdot b_{n}-L| \leq b_{n+1}$$
+Ejemplo: $\sum \frac{(-1)^n}{n}$
+- 1º $\sum |\frac{(-1)^n}{n}|=\sum \frac{1}{n} \text{ div p=1}$
+- 2º $(-1)^n \cdot \frac{1}{n}$ obtenemos $b_{n}=\frac{1}{n}$
+y demostramos que es decreciente, entonces $f$ es decreciente en $(1, +\infty)$ y $b_{n}$ es decreciente. Luego, el criterio afirma $\sum \frac{(-1)^n}{n}$ converge (condicionalmente).
