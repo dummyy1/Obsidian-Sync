@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "University Classes/Análisis Matemático I/Series Numéricas Clase 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed17c7aa377f5e47",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "University Classes/Análisis Matemático I/Series Numéricas Clase 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "University Classes/Análisis Matemático I/Series Numéricas Clase 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Note Template.md"
+                "file": "University Classes/Análisis Matemático I/Series Numéricas Clase 2.md"
               }
             }
           }
@@ -137,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa24c6cfe8f1a0ae",
+  "active": "75fa259761ac58db",
   "lastOpenFiles": [
-    "Templates/Book Template.md",
+    "Journals/Monday 07, November 2022.md",
     "Templates/Note Template.md",
+    "Templates/Book Template.md",
     "Zettelkasten/Idea Template.md",
     "Zettelkasten/Friday 04, November 2022.md",
     "Templates/Code  Block.md",
     "Zettelkasten/Componentes en Angular.md",
     "Zettelkasten/Módulos en Angular.md",
     "Templates/MOC.md",
-    "University Classes/Elementos de Álgebra y Geometría/Resolución de problema de autovectores particular.md",
-    "University Classes/Elementos de Álgebra y Geometría/Cambio de base - Diagonalización.md"
+    "University Classes/Elementos de Álgebra y Geometría/Resolución de problema de autovectores particular.md"
   ]
 }
