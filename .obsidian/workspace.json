@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa24c6cfe8f1a0ae",
+            "id": "a7bb2969001a24c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Classes/Análisis Matemático I/Series Numéricas Clase 2.md",
+                "file": "University Classes/Elementos de Álgebra y Geometría/Bases.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Classes/Análisis Matemático I/Series Numéricas Clase 2.md",
+                "file": "University Classes/Elementos de Álgebra y Geometría/Bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Classes/Análisis Matemático I/Series Numéricas Clase 2.md",
+                "file": "University Classes/Elementos de Álgebra y Geometría/Bases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University Classes/Análisis Matemático I/Series Numéricas Clase 2.md"
+                "file": "University Classes/Elementos de Álgebra y Geometría/Bases.md"
               }
             }
           }
@@ -138,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75fa259761ac58db",
+  "active": "a7bb2969001a24c6",
   "lastOpenFiles": [
-    "Journals/Monday 07, November 2022.md",
-    "Templates/Note Template.md",
-    "Templates/Book Template.md",
-    "Zettelkasten/Idea Template.md",
+    "University Classes/Elementos de Álgebra y Geometría/Cambio de base - Diagonalización.md",
+    "Journals/Tuesday 08, November 2022.md",
+    "University Classes/Elementos de Álgebra y Geometría/Bases.md",
+    "University Classes/Elementos de Álgebra y Geometría/Recta perpendicular.md",
+    "Templates/Idea Template.md",
     "Zettelkasten/Friday 04, November 2022.md",
-    "Templates/Code  Block.md",
-    "Zettelkasten/Componentes en Angular.md",
-    "Zettelkasten/Módulos en Angular.md",
-    "Templates/MOC.md",
-    "University Classes/Elementos de Álgebra y Geometría/Resolución de problema de autovectores particular.md"
+    "Journals/Monday 07, November 2022.md",
+    "University Classes/Elementos de Álgebra y Geometría/Resolución de problema de autovectores particular.md",
+    "Templates/Note Template.md",
+    "Templates/Book Template.md"
   ]
 }
