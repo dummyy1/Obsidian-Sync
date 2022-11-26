@@ -1,4 +1,4 @@
-Ejercicio: Definir una trasnformación lineal $T:\mathbb{R}² \to \mathbb{R}²$ con autovalores 3 y -1, de forma tal que $V_{3}=\{ (x,-x) \in \mathbb{R}², x \in \mathbb{R} \}$ y $V_{2}=(2,4)$ sea autovector asociado al autovalor -1.
+Ejercicio: Definir una transformación lineal $T:\mathbb{R}² \to \mathbb{R}²$ con autovalores 3 y -1, de forma tal que $V_{3}=\{ (x,-x) \in \mathbb{R}², x \in \mathbb{R} \}$ y $V_{2}=(2,4)$ sea autovector asociado al autovalor -1.
 
 ---
 Resolución: 

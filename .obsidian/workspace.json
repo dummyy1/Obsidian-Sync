@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "85cb11157f715ec2",
+        "id": "81327b9c7fec9cfb",
         "type": "tabs",
         "children": [
           {
-            "id": "a7bb2969001a24c6",
+            "id": "568fc3fa2ea0ff63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University Classes/Elementos de Álgebra y Geometría/Bases.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -71,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed17c7aa377f5e47",
@@ -88,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Classes/Elementos de Álgebra y Geometría/Bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Classes/Elementos de Álgebra y Geometría/Bases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,29 +120,36 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "University Classes/Elementos de Álgebra y Geometría/Bases.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "d6242c23fee4faf6",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 435.5,
     "collapsed": true
   },
-  "active": "a7bb2969001a24c6",
+  "active": "568fc3fa2ea0ff63",
   "lastOpenFiles": [
-    "University Classes/Elementos de Álgebra y Geometría/Cambio de base - Diagonalización.md",
-    "Journals/Tuesday 08, November 2022.md",
-    "University Classes/Elementos de Álgebra y Geometría/Bases.md",
-    "University Classes/Elementos de Álgebra y Geometría/Recta perpendicular.md",
-    "Templates/Idea Template.md",
-    "Zettelkasten/Friday 04, November 2022.md",
-    "Journals/Monday 07, November 2022.md",
-    "University Classes/Elementos de Álgebra y Geometría/Resolución de problema de autovectores particular.md",
+    "Zettelkasten/Proyectos/AppYT/OnSync.md",
     "Templates/Note Template.md",
-    "Templates/Book Template.md"
+    "Zettelkasten/Proyectos.md",
+    "Journals/Saturday 26, November 2022.md",
+    "Proyectos/App YT/InSync.md",
+    "Zettelkasten/Números Complejos.md",
+    "Journals/Tuesday 22, November 2022.md",
+    "Zettelkasten/Cambio de Base, Diagonalización.md",
+    "Zettelkasten/Bases orto-normales.md",
+    "Journals/Tuesday 15, November 2022.md"
   ]
 }

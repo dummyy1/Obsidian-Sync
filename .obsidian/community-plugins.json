@@ -8,5 +8,10 @@
   "improved-vimcursor",
   "obsidian-vimrc-support",
   "obsidian-outliner",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-custom-frames",
+  "obsidian-timestamper",
+  "oz-image-plugin",
+  "darlal-switcher-plus",
+  "obsidian-emoji-toolbar"
 ]

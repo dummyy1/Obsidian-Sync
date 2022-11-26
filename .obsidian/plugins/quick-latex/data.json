@@ -14,7 +14,7 @@
   "autoFraction_toggle": true,
   "autoLargeBracket_toggle": true,
   "autoSumLimit_toggle": true,
-  "autoEncloseSup_toggle": false,
+  "autoEncloseSup_toggle": true,
   "autoEncloseSub_toggle": true,
   "encloseSelection_toggle": true,
   "customShorthand_toggle": true,
